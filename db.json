@@ -1,0 +1,7 @@
+{
+  "things": [
+    { "id": 1, "thing": "first todo" },
+    { "id": 2, "thing": "second todo" },
+    { "id": 3, "thing": "third todo" }
+  ]
+}
